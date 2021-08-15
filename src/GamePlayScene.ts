@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 namespace DoodleJump {
   export interface IPoint {
     x: number;
